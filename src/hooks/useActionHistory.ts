@@ -1,0 +1,1 @@
+export default function useActionHistory(type?: string) { return { data: null, loading: false, alerts: [] }; }

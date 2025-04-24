@@ -1,0 +1,1 @@
+export default function useModuleView(type?: string) { return { data: null, loading: false, alerts: [] }; }
